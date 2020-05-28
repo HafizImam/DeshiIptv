@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Ekattor TV 
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1,DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1,ZEE cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ,STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
